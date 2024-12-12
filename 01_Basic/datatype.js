@@ -89,3 +89,4 @@ let user01={
 let user02=user01
 user02.name="aman";
 console.table({user01,user02});
+console.log(typeof(id));
